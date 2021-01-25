@@ -96,7 +96,7 @@ $(document).ready(() => {
         id: 'DustCN',
         type: 'linear',
         scaleLabel: {
-          labelString: 'Dust denisty CN ug/mmm',
+          labelString: 'Dust denisty CN mg/mmm',
           display: true,
         },
         position: 'right',
